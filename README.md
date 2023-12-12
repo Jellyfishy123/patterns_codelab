@@ -3,7 +3,7 @@ This codelab creates an application that displays a JSON document in Flutter. Th
 
 You then use patterns to build the appropriate widget when the value matches that pattern. You also see how to use patterns to destructure data into local variables.
 
-My third project in Flutter is based off https://docs.flutter.dev/get-started/codelab-web <br>
+My third project in Flutter is based off https://codelabs.developers.google.com/codelabs/dart-patterns-records#0 <br>
 This is in preparation for SC2006 Software Engineering in Y2S2.
 
 ## Contributors: ##
